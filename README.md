@@ -1,0 +1,2 @@
+# PracticeJupyterWF
+Jupyter worflow exemple
